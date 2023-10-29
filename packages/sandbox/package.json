@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@vue/cli-service": "5",
-    "rollup-plugin-visualizer": "^5.5.4",
+    "rollup-plugin-visualizer": "^5.9.0",
     "vue": "*"
   },
   "devDependencies": {
