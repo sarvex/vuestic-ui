@@ -37,6 +37,6 @@
     "@nuxt/schema": "latest",
     "@nuxt/vite-builder": "latest",
     "@nuxtjs/eslint-config-typescript": "latest",
-    "eslint": "^7"
+    "eslint": "7.32.0"
   }
 }
