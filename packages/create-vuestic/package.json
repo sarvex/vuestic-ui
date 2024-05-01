@@ -14,14 +14,14 @@
     "create-vuestic": "./dist/index.js"
   },
   "dependencies": {
-    "chalk": "^5.2.0",
-    "ora": "^6.3.0",
-    "prompts": "^2.4.2"
+    "chalk": "5.2.0",
+    "ora": "6.3.1",
+    "prompts": "2.4.2"
   },
   "devDependencies": {
-    "@types/node": "^18.16.0",
-    "@types/prompts": "^2.4.4",
-    "tsup": "^6.5.0",
-    "tsx": "^3.12.1"
+    "@types/node": "18.16.18",
+    "@types/prompts": "2.4.7",
+    "tsup": "6.7.0",
+    "tsx": "3.12.6"
   }
 }
